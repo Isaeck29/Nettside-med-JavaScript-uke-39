@@ -2,28 +2,12 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   background-color: #aaaaaa;
 }
-
-header{
-  background-color: #eaffed;
-  color: white;
-  font-family: Arial black;
-  font-size: 40px;
-  text-align: center;
-  height: 90vh;
-}
+/* Bakgrunnsfarge og font */
 
 main{
   width: 75%;
   margin: auto;
   background-color: white;
-}
-.miniatyrbilde{
-  width: 50px;
-  height: 50px;
-}
-#ingress{
-  font-size: 20px;
-  font-style: italic;
 }
 
 footer {
@@ -35,6 +19,7 @@ footer {
     padding: 4px 0;
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
 }
+/*footerens plassering og stil */
 
 button {
     background-color: #abc1c4; /* Green */
@@ -49,10 +34,15 @@ button {
     cursor: pointer;
     border-radius: 4px;
 }
-
+.boks{
+  width: 50px;
+  height: 50px;
+}
+/*knappenene sin stil, og størrelser */
 img {
     display:flex;
     justify-self: flex-end; 
     width: 60%;
     height: 100%;
 }
+/*bildet sin plassering og størrelse. får bildet til å være på høyre side */

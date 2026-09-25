@@ -15,6 +15,8 @@ Repository for Nettside som skal lages med Javascript for oppgaven.
  `6.` Jeg har lagt inn et bilde på nettsiden.
 
  `7.` Jeg har endret litt til på utseende. Fjernet en "<br>" slik at det er et mellomrom mindre mellom tallet og knappene, lagt til en tekstforklaring som forteller at om du trykker på tallet så resetter det seg, og og lagt til en annen bakgrunnsfarge for nettsiden
+`8.` Lagt inn noen enkle kodeforklaringer, og ferdigstilt koden + README.md
+
  
 
  
@@ -28,4 +30,4 @@ Repository for Nettside som skal lages med Javascript for oppgaven.
 
 * Jeg har lært mer om hvordan man kan bruke javascript til å lage ulike funksjoner og variabler, og til å gjøre at noe skjer når man trykker på de knappene som jeg har laget. Jeg har og lært litt om hvordan jeg kan bruke css til å gjøre nettsidene mer spennende.
 
-* Jeg må også takke Emil som har hjulpet til litt underveis i prosessen med oppgave 1-3, ettersom han alltid har kunnet svare på spørsmål om hvordan jeg gjør ting i de ulike fil-typene. 
+* Jeg må også takke Emil som har hjulpet til litt underveis i prosessen med oppgave 1-3, ettersom han alltid har kunnet svare på spørsmål om hvordan jeg gjør ulike ting.
