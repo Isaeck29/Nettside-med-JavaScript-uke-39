@@ -14,6 +14,7 @@ Repository for Nettside som skal lages med Javascript for oppgaven.
 
  `6.` Jeg har lagt inn et bilde på nettsiden.
 
+ `7.` Jeg har endret litt til på utseende. Fjernet en "<br>" slik at det er et mellomrom mindre mellom tallet og knappene, lagt til en tekstforklaring som forteller at om du trykker på tallet så resetter det seg, og og lagt til en annen bakgrunnsfarge for nettsiden
  
 
  
